@@ -41,6 +41,4 @@ async def on_ready():
 
 
 
-bot.run("MTA5ODk4NjcxMDk5MTM4NDU5Nw.GH9hQw.na7HNpIGCPrYKTIjRoF9Xc01Ryu6YbUhTMheGk")
-
-bot.run("MTA5ODk4NjcxMDk5MTM4NDU5Nw.G7xrZT.EknuMPmZRKBNKlRD9ID6Rj2p3lF74AOH_0caog")
+bot.run("token")
